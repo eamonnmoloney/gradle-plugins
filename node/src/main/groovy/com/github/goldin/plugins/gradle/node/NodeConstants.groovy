@@ -42,7 +42,7 @@ class NodeConstants
     final static String COFFEE_EXECUTABLE      = "$MODULES_BIN_DIR/coffee"
 
     // https://github.com/nodejitsu/forever/tags
-    final static String FOREVER_VERSION        = '0.10.0'
+    final static String FOREVER_VERSION        = '0.10.7'
     final static String FOREVER_EXECUTABLE     = "$MODULES_BIN_DIR/forever"
 
     final static Pattern AttributePattern      = ~/(\w+)='(.*?[^|])'/
